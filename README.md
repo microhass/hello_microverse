@@ -12,7 +12,7 @@ First project in microverse.
 
 # 📗 Table of Contents
 
-- [hello_microverse](#hello_microverse)
+- [hello\_microverse](#hello_microverse)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Hello Microverse\] ](#-hello-microverse-)
   - [🛠 Built With ](#-built-with-)
@@ -64,7 +64,7 @@ First project in microverse.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://microverse-hassan.github.io/hello_microverse/)
+- [Live Demo Link](https://microhass.github.io/hello_microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
