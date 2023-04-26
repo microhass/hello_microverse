@@ -64,7 +64,7 @@ First project in microverse.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://microverse-hassan.github.io/hello_microverse/)
+- [Live Demo Link](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +88,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone [git@github.com:myaccount/my-project.git](https://github.com/microverse-hassan/hello_microverse.git)
+  git clone https://github.com/microhass/hello_microverse.git
 ```
 
 ### Install
